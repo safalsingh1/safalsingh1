@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Safal Singh</h1>
 <h3 align="center">I'm Safal Singh, a B.Tech student in Information Technology at NIT Kurukshetra and an AI/ML enthusiast dedicated to building impactful solutions. I work on model development and predictive analytics to tackle real-world challenges.
 
-Some of my key projects include:
-
-Virtual Try-On (VTON): An e-commerce tool enabling virtual garment fitting.
-Farm Seva: A crop disease detection platform, achieving 99.2% accuracy, developed for the Smart India Hackathon.
-Cancer Care: AI-based cancer detection tool with 99.2% accuracy.
 I'm a skilled problem-solver with experience in Python, TensorFlow, Flask, and Azure, and a winner of hackathons like DevClash 2024 and SIH 2024. Always eager to connect, collaborate, and push the limits of AI to drive innovation.</h3>
 
 - 🔭 Project 1: [AI Agent for Information Retrieval](https://github.com/safalsingh1/assessment.git)
