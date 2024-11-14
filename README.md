@@ -17,7 +17,7 @@ I'm a skilled problem-solver with experience in Python, TensorFlow, Flask, and A
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/safal singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safal singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/safal-singh-3078a22a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safal singh" height="30" width="40" /></a>
 <a href="https://kaggle.com/dark pheonix9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dark pheonix9" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/safalsingh76" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="safalsingh76" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/safalsingh76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="safalsingh76" height="30" width="40" /></a>
