@@ -1,31 +1,87 @@
-<h1 align="center">Hi 👋, I'm Safal Singh</h1>
-<h3 align="center">I'm Safal Singh, a B.Tech student in Information Technology at NIT Kurukshetra and an AI/ML enthusiast dedicated to building impactful solutions. I work on model development and predictive analytics to tackle real-world challenges.
+# Hi 👋, I'm Safal Singh
 
-I'm a skilled problem-solver with experience in Python, TensorFlow, Flask, and Azure, and a winner of hackathons like DevClash 2024 and SIH 2024. Always eager to connect, collaborate, and push the limits of AI to drive innovation.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SafalSingh&label=Profile%20views&color=0e75b6&style=flat" alt="SafalSingh" /> </p>
 
-- 🔭 Project 1: [AI Agent for Information Retrieval](https://github.com/safalsingh1/assessment.git)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SafalSingh&theme=tokyonight" alt="SafalSingh" /></a> </p>
 
-- 🌱 I’m currently learning **PyTorch, FastAPI, and Azure ML services.**
+- 🔭 I’m currently working on [AI-Powered Contract Compliance Checker](https://github.com/SafalSingh/Legiscan)
+- 🌱 I’m currently learning **Generative AI and Deep Learning**
+- 💬 Ask me about **Python, Machine Learning, TensorFlow, React**
+- 📫 Reach me at **safalsingh@example.com**
+- ⚡ Fun fact: I'm a 4X Hackathon Winner!
 
-- 👯 Project 2: [CancerCare](https://github.com/safalsingh1/Cancercare.git)
-
-- 🤝 Project 3: [VTON](https://github.com/safalsingh1/VTON.git)
-
-- 📫 How to reach me **safalsingh76@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/safal-singh-3078a22a7/](https://www.linkedin.com/in/safal-singh-3078a22a7/)
+<div>
+<a href="https://x.com/SafalSingh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/safal-singh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/SafalSingh" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:safalsingh@example.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/safal-singh-3078a22a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safal singh" height="30" width="40" /></a>
-<a href="https://kaggle.com/dark pheonix9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dark pheonix9" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/safalsingh76" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="safalsingh76" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/safalsingh76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="safalsingh76" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/safal_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="safal_singh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/darkpheo1b3p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="darkpheo1b3p" height="30" width="40" /></a>
+<a href="https://x.com/SafalSingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="@SafalSingh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/safal-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="safal-singh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Scikit-Learn" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safalsingh1&show_icons=true&locale=en&layout=compact" alt="safalsingh1" /></p>
+<h3 align="left">Projects:</h3>
+- **[Legiscan: AI-Powered Contract Compliance Checker](https://github.com/SafalSingh/Legiscan)**  
+  An AI-driven tool that analyzes contracts for compliance using Gemini LLM for embedding generation, Dockerized PostgreSQL for storage, and cosine similarity for analysis, reducing review time by 60%.
+
+- **[AI Agent for Information Retrieval](https://github.com/SafalSingh/AIAgent)**  
+  Automates data retrieval from the web using SerpAPI and Google Sheets API, achieving 95% accuracy for over 1,000+ rows, with a Streamlit-based interface improving efficiency by 50%.
+
+- **[Cancer Care - AI-Powered Cancer Detection Platform](https://github.com/SafalSingh/CancerCare)**  
+  A web app using CNNs in TensorFlow with 99.2% accuracy in detecting 11+ cancer types from CT scans, integrated with genomic data via Ensemble API.
+
+<h3 align="left">Achievements:</h3>
+- Pupil in Codeforces ([Profile](https://codeforces.com/profile/SafalSingh))
+- 3-Star on CodeChef ([Profile](https://www.codechef.com/users/SafalSingh))
+- 1599 rating on LeetCode ([Profile](https://leetcode.com/SafalSingh))
+- 4X Hackathon Winner: American Allegiance of Education, DevClash (2024), InsightMedTech (2024)
+
+<h3 align="left">Clubs and Societies:</h3>
+- Member of Google Developer Community and Microsoft Innovator Programme
+- Member of Open Code Developer Society (OCD), NIT Kurukshetra
+
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafalSingh&layout=compact&theme=midnight-purple" alt="SafalSingh" />
+
+<p> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SafalSingh&show_icons=true&locale=en&theme=midnight-purple" alt="SafalSingh" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SafalSingh&theme=midnight-purple" alt="SafalSingh" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/SafalSingh">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SafalSingh&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SafalSingh&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SafalSingh&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SafalSingh&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SafalSingh&theme=2077" height="180em" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="left">⚡ Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SafalSingh&theme=tokyo-night"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
