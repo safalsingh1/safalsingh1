@@ -60,28 +60,4 @@
 - Member of Google Developer Community and Microsoft Innovator Programme
 - Member of Open Code Developer Society (OCD), NIT Kurukshetra
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafalSingh&layout=compact&theme=midnight-purple" alt="SafalSingh" />
-
-<p> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SafalSingh&show_icons=true&locale=en&theme=midnight-purple" alt="SafalSingh" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SafalSingh&theme=midnight-purple" alt="SafalSingh" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/SafalSingh">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SafalSingh&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SafalSingh&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SafalSingh&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SafalSingh&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SafalSingh&theme=2077" height="180em" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="left">⚡ Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SafalSingh&theme=tokyo-night"/>
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
