@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [AI-Powered Contract Compliance Checker](https://github.com/SafalSingh/Legiscan)
 - 🌱 I’m currently learning **Generative AI and Deep Learning**
 - 💬 Ask me about **Python, Machine Learning, TensorFlow, React**
-- 📫 Reach me at **safalsingh@example.com**
+
 - ⚡ Fun fact: I'm a 4X Hackathon Winner!
 
 <div>
