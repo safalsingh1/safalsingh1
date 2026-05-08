@@ -1,64 +1,206 @@
-# Hi 👋, I'm Safal Singh
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SafalSingh&label=Profile%20views&color=0e75b6&style=flat" alt="SafalSingh" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Safal%20Singh&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Builder%20%7C%20NIT%20Kurukshetra&descAlignY=60&descSize=20" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SafalSingh&theme=tokyonight" alt="SafalSingh" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+AI+systems+that+actually+work+%F0%9F%A4%96;Multi-agent+LLMs+%7C+RAG+%7C+Computer+Vision;Meta+Hacker+Cup+2025+%E2%80%94+Global+Rank+616+%F0%9F%8F%86;AWS+AI%2FML+Scholar+%7C+4x+Hackathon+Winner;Open+to+Internship+%26+Research+Collabs+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [AI-Powered Contract Compliance Checker](https://github.com/SafalSingh/Legiscan)
-- 🌱 I’m currently learning **Generative AI and Deep Learning**
-- 💬 Ask me about **Python, Machine Learning, TensorFlow, React**
+<p>
+  <a href="https://www.linkedin.com/in/safal-singh-3078a22a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:safalsingh76@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/safalsingh1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/safalsingh76"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/safalsingh76"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
+</p>
 
-- ⚡ Fun fact: I'm a 4X Hackathon Winner!
-
-<div>
-<a href="https://x.com/SafalSingh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/safal-singh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/SafalSingh" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:safalsingh@example.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/SafalSingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="@SafalSingh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/safal-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="safal-singh" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Scikit-Learn" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-</p>
+## 🧠 About Me
 
-<h3 align="left">Projects:</h3>
-- **[Legiscan: AI-Powered Contract Compliance Checker](https://github.com/SafalSingh/Legiscan)**  
-  An AI-driven tool that analyzes contracts for compliance using Gemini LLM for embedding generation, Dockerized PostgreSQL for storage, and cosine similarity for analysis, reducing review time by 60%.
+```python
+class SafalSingh:
+    def __init__(self):
+        self.name        = "Safal Singh"
+        self.role        = "AI/ML Engineer"
+        self.college     = "NIT Kurukshetra — B.Tech IT (CGPA: 8.75)"
+        self.batch       = "2023 – 2027"
+        self.experience  = ["AI/ML Intern @ Infosys"]
+        self.focus       = ["LLM Agents", "RAG Systems", "Computer Vision", "Full-Stack AI"]
+        self.achievements = [
+            "🏆 Meta Hacker Cup 2025 — Global Rank 616 (Round 1)",
+            "🎓 Amazon AWS AI/ML Scholar 2025",
+            "🥇 1st Place — InsightMedTech Hackathon 2024",
+            "🥈 2nd Place — DevClash Hackathon 2024",
+            "⚡ Codeforces Specialist — Max Rating 1554",
+        ]
+        self.currently   = "Building intelligent multi-agent systems"
+        self.open_to     = ["Research collaborations", "AI internships", "Hackathons"]
 
-- **[AI Agent for Information Retrieval](https://github.com/SafalSingh/AIAgent)**  
-  Automates data retrieval from the web using SerpAPI and Google Sheets API, achieving 95% accuracy for over 1,000+ rows, with a Streamlit-based interface improving efficiency by 50%.
+    def say_hi(self):
+        print("Let's build something that matters.")
+```
 
-- **[Cancer Care - AI-Powered Cancer Detection Platform](https://github.com/SafalSingh/CancerCare)**  
-  A web app using CNNs in TensorFlow with 99.2% accuracy in detecting 11+ cancer types from CT scans, integrated with genomic data via Ensemble API.
+---
 
-<h3 align="left">Achievements:</h3>
-- Pupil in Codeforces ([Profile](https://codeforces.com/profile/SafalSingh))
-- 3-Star on CodeChef ([Profile](https://www.codechef.com/users/SafalSingh))
-- 1599 rating on LeetCode ([Profile](https://leetcode.com/SafalSingh))
-- 4X Hackathon Winner: American Allegiance of Education, DevClash (2024), InsightMedTech (2024)
+## 🚀 Featured Projects
 
-<h3 align="left">Clubs and Societies:</h3>
-- Member of Google Developer Community and Microsoft Innovator Programme
-- Member of Open Code Developer Society (OCD), NIT Kurukshetra
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+### 🗣️ [Talk-to-Data](https://github.com/safalsingh1/talk-to-data)
+**Conversational Analytics Agent**
 
+> 9-agent LLM orchestration system for natural-language data analysis
+
+- 🤖 Intent router → NL-to-Pandas → Anomaly → RAG → Summary agents
+- 🎙️ Multi-modal RAG: PDFs, audio (Whisper), images (CLIP 512-dim)
+- 🔒 Sandboxed code execution with PII masking (30+ column patterns)
+- ⚡ 40% latency reduction via caching; 7 auto-selected chart types
+
+`FastAPI` `FAISS` `Groq (Llama 3.3 70B)` `React` `LangChain`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 [CancerCare](https://github.com/safalsingh1/Cancercare)
+**AI-Powered Cancer Detection Platform**
+
+> 99.2% accuracy detecting 11+ cancer types from CT scans
+
+- 🔬 Custom ResNet/DenseNet models trained on 100K+ images
+- 🧪 Ensembl API integration for 50,000+ genomic biomarkers
+- 💬 Gemini 2.0 Flash chatbot for patient guidance & support
+- ☁️ Full-stack React + FastAPI, deployed on Azure
+
+`PyTorch` `FastAPI` `React` `Azure` `Gemini 2.0 Flash`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚖️ [LegiScan](https://github.com/safalsingh1/compliance_checker)
+**LLM-Powered Contract Compliance Checker**
+
+> Vector-similarity pipeline for automated legal analysis
+
+- 📄 100+ contracts embedded via Gemini text-embedding-004 (1536-dim)
+- 🔍 DiskANN index in TimescaleDB pgvector; top-3 cosine retrieval
+- 📊 Structured reports: score 0–100, strengths, gaps (Pydantic v2)
+- 🐳 Dockerized full stack with Streamlit UI + one-click PDF export
+
+`LangChain` `pgvector` `Gemini Pro` `Docker` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 [Medify](https://github.com/safalsingh1/Medify)
+**Full-Stack Hospital Management System**
+
+> Enterprise-grade healthcare platform with RBAC auth
+
+- 🏗️ Express.js REST API — 60+ routes across 12 resource modules
+- 🔐 JWT with refresh token rotation, bcrypt, RBAC
+- 📋 30+ React screens managing patients, billing, appointments
+- 📁 Multer + Cloudinary file uploads, deployed on Render
+
+`Node.js` `Express` `MongoDB` `React 18` `JWT`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**AI / LLMs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Backend & Infrastructure**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=safalsingh1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safalsingh1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safalsingh1&theme=tokyonight&hide_border=true" alt="streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=safalsingh1&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+| 🏅 Achievement | 📌 Details |
+|---|---|
+| 🌍 Meta Hacker Cup 2025 | **Global Rank 616** (Round 1) · Rank 1194 (Round 2) — Human Track |
+| 🎓 AWS AI/ML Scholar | Amazon — 2025 |
+| 🥇 InsightMedTech Hackathon | **1st Place** — 2024 |
+| 🥈 DevClash Hackathon | **2nd Place** — 2024 |
+| 🥉 AAE Hackathon | **3rd Place** — 2024 |
+| ⚡ Codeforces | **Specialist** — Max Rating 1554 |
+| ⭐ CodeChef | **3-Star** — Max Rating 1682 |
+| ☁️ AWS Certified | Machine Learning Foundations · Generative AI (90%+) |
+
+</div>
+
+---
+
+## 💼 Experience
+
+**AI/ML Intern @ Infosys** *(Nov 2024 – Jan 2025)*
+
+Built a production RAG pipeline for contract analysis: LangChain + transformer embeddings + vector similarity search over 1,000+ documents, reaching **89% extraction accuracy** and **cutting review time by 60%**. Added batch inference and automated PDF reporting, boosting throughput by **50%**.
+
+---
+
+<div align="center">
+
+### 💬 Let's connect and build something impactful
+
+*"The best way to predict the future is to build it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
